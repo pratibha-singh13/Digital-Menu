@@ -45,7 +45,7 @@ const ITEMS = [
     img: 'https://images.unsplash.com/photo-1548365328-9d94d2b3b5b6?auto=format&fit=crop&w=800&q=60',
   },
 
-  // Desserts
+  // Dessert
   {
     id: 'd1',
     name: 'Chocolate Brownie',
