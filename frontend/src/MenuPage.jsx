@@ -4,7 +4,7 @@ const ITEMS = [
   // Starters
   {
     id: 's1',
-    name: 'Crispy Veg Spring Rolls',
+    name: 'Crispy Veg Spring Roll',
     category: 'Starters',
     price: 129,
     desc: 'Golden rolls served with sweet chili sauce.',
